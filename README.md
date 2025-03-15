@@ -49,6 +49,14 @@ IT professional with hands-on experience implementing Azure-based solutions, inc
   - Demonstrated secure access control to Azure resources
   - Implemented proper resource cleanup to manage costs
   - [View implementation details](https://github.com/Zach1Attach1/Azure-Basics)
+    
+### VPN Implementation
+* **[VPN Testing with Azure](https://github.com/Zach1Attach1/VPN-Implementation)**
+  - Created VMs in different geographic regions
+  - Implemented ProtonVPN for secure communications
+  - Tested IP geolocation changes across different configurations
+  - Observed regional content differences based on apparent location
+  - [View complete demonstration](https://github.com/Zach1Attach1/VPN-Implementation)
 
 ## Connect with me:
 [LinkedIn](https://www.linkedin.com/in/zach-mikula-5aaa7a34b/)
