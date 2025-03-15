@@ -1,18 +1,54 @@
-<h1>Hi, I'm Zach, an <a href="https://www.linkedin.com/in/zach-mikula-5aaa7a34b/">IT Professional</a>☺</h1>
+# Hi, I'm Zach, an IT Professional 
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## About Me
+IT professional with hands-on experience implementing Azure-based solutions, including virtual machines, network security, and help desk systems. Passionate about system administration, network security, and cloud infrastructure.
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/Zach1Attach1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Zach1Attach1/post-install-config/tree/main)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Zach1Attach1/ticket-lifecycle1/tree/main)
+## Technical Skills
+- **Cloud Platforms**: Microsoft Azure (VM management, Resource Groups, Storage, VNets)
+- **Networking**: Network Security Groups, WireShark traffic analysis, VPN configuration
+- **Support Systems**: osTicket installation and configuration
+- **Identity Management**: Active Directory implementation and user management 
+- **Operating Systems**: Windows Server, Windows 10, Ubuntu Linux
 
+## Projects
 
-<h2>🤳Connect with me:</h2>
+### osTicket (Help Desk Ticketing System)
+* **[osTicket: Prerequisites and Installation](link-to-detailed-page)**
+  - Deployed a Windows 10 VM in Azure
+  - Installed and configured IIS with PHP support
+  - Set up MySQL database for ticket storage
+  - Installed osTicket v1.15.8 with proper permissions
+  - Configured post-installation settings for optimal performance
+  - [View detailed documentation with screenshots](link)
 
+* **[osTicket: Post-Installation Configuration](link-to-detailed-page)**
+  - Created and configured help desk roles and departments
+  - Implemented SLA plans with various response time requirements
+  - Set up help topics and ticket routing rules
+  - Created test users and tickets to validate system operation
+  - [View implementation details](link)
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+* **[osTicket: Ticket Lifecycle Examples](link-to-detailed-page)**
+  - Demonstrated ticket creation, assignment, and resolution process
+  - Implemented ticket priority management
+  - Documented escalation procedures
+  - [View complete workflow documentation](link)
 
+### Azure Networking and Security
+* **Network Traffic Analysis in Azure**
+  - Created Windows and Linux VMs in the same VNet
+  - Used WireShark to capture and analyze ICMP, SSH, DHCP, DNS, and RDP traffic
+  - Configured Network Security Groups to control traffic flow
+  - Demonstrated impact of firewall rules on communication between VMs
+  - [View project documentation](link)
 
+### Microsoft Azure Basics
+* **Azure Storage Implementation**
+  - Created Azure resource groups and storage accounts
+  - Managed blob storage for file operations
+  - Demonstrated secure access control to Azure resources
+  - Implemented proper resource cleanup to manage costs
+  - [View implementation details](link)
 
-[linkedin]: https://www.linkedin.com/in/zach-mikula-5aaa7a34b/
+## Connect with me:
+[LinkedIn](https://www.linkedin.com/in/zach-mikula-5aaa7a34b/)
