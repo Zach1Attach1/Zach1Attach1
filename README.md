@@ -21,12 +21,12 @@ IT professional with hands-on experience implementing Azure-based solutions, inc
   - Configured post-installation settings for optimal performance
   - [View detailed documentation with screenshots](https://github.com/Zach1Attach1/osticket-prereqs)
 
-* **[osTicket: Post-Installation Configuration](link-to-detailed-page)**
+* **[osTicket: Post-Installation Configuration](https://github.com/Zach1Attach1/post-install-config)**
   - Created and configured help desk roles and departments
   - Implemented SLA plans with various response time requirements
   - Set up help topics and ticket routing rules
   - Created test users and tickets to validate system operation
-  - [View implementation details](link)
+  - [View implementation details](https://github.com/Zach1Attach1/post-install-config)
 
 * **[osTicket: Ticket Lifecycle Examples](link-to-detailed-page)**
   - Demonstrated ticket creation, assignment, and resolution process
