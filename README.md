@@ -40,7 +40,7 @@ IT professional with hands-on experience implementing Azure-based solutions, inc
   - Used WireShark to capture and analyze ICMP, SSH, DHCP, DNS, and RDP traffic
   - Configured Network Security Groups to control traffic flow
   - Demonstrated impact of firewall rules on communication between VMs
-  - [View project documentation](link)
+  - [View project documentation](https://github.com/Zach1Attach1/Azure-Network-Security---Wireshark-Analysis)
 
 ### Microsoft Azure Basics
 * **Azure Storage Implementation**
