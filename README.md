@@ -28,11 +28,11 @@ IT professional with hands-on experience implementing Azure-based solutions, inc
   - Created test users and tickets to validate system operation
   - [View implementation details](https://github.com/Zach1Attach1/post-install-config)
 
-* **[osTicket: Ticket Lifecycle Examples](link-to-detailed-page)**
+* **[osTicket: Ticket Lifecycle Examples](https://github.com/Zach1Attach1/ticket-lifecycle1)**
   - Demonstrated ticket creation, assignment, and resolution process
   - Implemented ticket priority management
   - Documented escalation procedures
-  - [View complete workflow documentation](link)
+  - [View complete workflow documentation](https://github.com/Zach1Attach1/ticket-lifecycle1)
 
 ### Azure Networking and Security
 * **Network Traffic Analysis in Azure**
