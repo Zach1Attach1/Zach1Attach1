@@ -13,13 +13,13 @@ IT professional with hands-on experience implementing Azure-based solutions, inc
 ## Projects
 
 ### osTicket (Help Desk Ticketing System)
-* **[osTicket: Prerequisites and Installation](link-to-detailed-page)**
+* **[osTicket: Prerequisites and Installation](https://github.com/Zach1Attach1/osticket-prereqs))**
   - Deployed a Windows 10 VM in Azure
   - Installed and configured IIS with PHP support
   - Set up MySQL database for ticket storage
   - Installed osTicket v1.15.8 with proper permissions
   - Configured post-installation settings for optimal performance
-  - [View detailed documentation with screenshots](link)
+  - [View detailed documentation with screenshots](https://github.com/Zach1Attach1/osticket-prereqs)
 
 * **[osTicket: Post-Installation Configuration](link-to-detailed-page)**
   - Created and configured help desk roles and departments
